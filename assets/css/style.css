@@ -481,7 +481,7 @@
   
   /*========== MEDIA QUERIES ==========*/
   
-  /* For full-screen images on small screens */
+  /* Para imagens em tela cheia e telas pequenas */
   @media screen and (max-width: 359px){
     .home__img,
     .share__img,
