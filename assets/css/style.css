@@ -1,7 +1,7 @@
 /*===== GOOGLE FONTS =====*/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,300&family=Poppins:wght@400;600;700&family=Roboto:wght@300&display=swap');
 
-/*===== VARIABLES CSS =====*/
+/*===== VARIÁVEIS CSS =====*/
 :root {
     --header-height: 3rem;
   
@@ -59,7 +59,7 @@
     scroll-behavior: smooth;
   }
   
-  /*========== Variables Dark theme ==========*/
+  /*========== Variáveis Dark theme ==========*/
   body.dark-theme{
     --first-color-send: #161212;
     --title-color: #F3F1F1;
@@ -200,12 +200,12 @@
     cursor: pointer;
   }
   
-  /* Show menu */
+  /* Mostrar menu */
   .show-menu{
     top: calc(var(--header-height) + 1rem);
   }
   
-  /* Active menu link */
+  /* Ativomenu link */
   .active-link{
     position: relative;
   }
@@ -221,7 +221,7 @@
     border-radius: 50%;
   }
   
-  /* Change background header */
+  /* Alterar background header */
   .scroll-header{
     box-shadow: 0 1px 4px rgba(0,0,0,.1);
   }
@@ -302,7 +302,7 @@
     color: var(--first-color-alt);
   }
   
-  /*========== SHARE ==========*/
+  /*========== COMPARTILHAR ==========*/
   .share__data{
     text-align: center;
   }
@@ -316,7 +316,7 @@
     justify-self: center;
   }
   
-  /*========== DECORATION ==========*/
+  /*========== DECORACÃO ==========*/
   .decoration__container{
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   }
@@ -342,7 +342,7 @@
     margin-bottom: var(--mb-1);
   }
   
-  /*========== ACCESSORIES ==========*/
+  /*========== ACESSÓRIOS ==========*/
   .accessory__container{
     grid-template-columns: repeat(2,1fr);
     padding-bottom: 2rem;
@@ -396,7 +396,7 @@
     border-radius: 1rem 0 1rem 0;
   }
   
-  /*========== SEND GIFT ==========*/
+  /*========== ENVIAR PRESENTE ==========*/
   .send{
     background-color: var(--first-color-send);
   }
