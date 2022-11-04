@@ -13,7 +13,8 @@ Esta é uma aplicação web responsiva destinada para compras de produtos e aces
 
 Site da aplicação
 
-website-responsivee.netlify.app
+https://website-responsivee.netlify.app/
+
 
 ![image](https://user-images.githubusercontent.com/85380530/200058220-7b91620d-67e5-4b90-a57b-39e372536fa5.png)
 
